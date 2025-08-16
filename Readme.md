@@ -30,7 +30,7 @@ real-time-location-tracker/
 │   └── index.ejs       # Main UI template
 │── public/
 │   ├── script.js       # Frontend socket & map logic
-│   └── style.css       # Styles (optional)
+│   └── style.css       # Styles 
 └── README.md           # Project documentation
 ```
 
@@ -82,5 +82,6 @@ real-time-location-tracker/
 
 
 👨‍💻 Developed by [Sagnik Pratihar](https://github.com/SagnikPratihar)
+
 
 
