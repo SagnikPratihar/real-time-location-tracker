@@ -81,7 +81,7 @@ real-time-location-tracker/
 
 
 
-👨‍💻 Developed by [Sagnik Pratihar](https://github.com/SagnikPratihar)
+
 
 
 
