@@ -9,7 +9,7 @@ A web app that tracks live GPS locations across multiple users in **real-time** 
 - 📍 Tracks live user GPS locations
 - 🔄 Updates positions in real-time across all connected users
 - 🗺️ Interactive map powered by [Leaflet.js](https://leafletjs.com/)
-- 🔌 Built with **Socket.IO** for real-time communication
+- 🔌 Built with **Socket.IO** for real-time update
 - 🎨 Simple and responsive UI
 
 ---
@@ -18,8 +18,6 @@ A web app that tracks live GPS locations across multiple users in **real-time** 
 - **Backend:** Node.js, Express, Socket.IO  
 - **Frontend:** HTML, CSS, JavaScript, Leaflet.js  
 - **Templating Engine:** EJS  
-- **Map Provider:** OpenStreetMap  
-
 ---
 
 ## 📂 Project Structure
@@ -84,4 +82,5 @@ real-time-location-tracker/
 
 
 👨‍💻 Developed by [Sagnik Pratihar](https://github.com/SagnikPratihar)
+
 
