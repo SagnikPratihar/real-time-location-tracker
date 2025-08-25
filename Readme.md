@@ -72,12 +72,8 @@ real-time-location-tracker/
 
 
 
-## 📌 Future Improvements
 
-* 🔐 User authentication
-* 🗺️ Different map layers
-* 📊 Track & replay movement history
-* 📍 Custom user icons on the map
+
 
 
 
